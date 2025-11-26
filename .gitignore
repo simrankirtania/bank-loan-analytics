@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.vscode/
+
+# Data (optional, if sensitive)
+data/*.csv
+
+# Power BI
+*.pbix.cache
+
+# System
+.DS_Store
+Thumbs.db
